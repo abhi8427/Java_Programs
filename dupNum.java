@@ -2,7 +2,7 @@ public class dupNum
 {
 public static void main(String abhi[])
 {
-int a[] = {1,2,3,1,4,1,1,5};
+int a[] = {1,2,3,1,4,1,1,5,1,2,3,4};
 
 for (int i = 0; i<a.length;i++)
 {
