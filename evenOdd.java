@@ -8,13 +8,15 @@ System.out.println("Please enter the number");
 
 Scanner scan = new Scanner(System.in);
 
-//int num = scan.nextInt();
+int num = scan.nextInt();
 
-int num = 4;
+System.out.println("The entered number is " +num);
 
-if(num%2=0){
+//int num = 4;
+
+if(num%2==0){
 System.out.println("Number is even");
-}else if(num%2!=0)
+}else
 {
 System.out.println("Number is odd");
 }
