@@ -22,14 +22,13 @@ System.out.println("Full Name is " + fullName);
 
 String subName = fullName.substring(0,6);
 
+System.out.println("The SubName is  " + subName);
+
 long num = Math.round(Math.random()*1000);
 
 String pwd = subName + num;
 
 System.out.println("The Password is " +pwd);
-
-
-
 
 
 
