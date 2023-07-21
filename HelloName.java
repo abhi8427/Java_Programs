@@ -12,6 +12,8 @@ String name = scan.nextLine();
 
 System.out.println("Hello World, This is " + name);
 
+System.out.println(name + " is a software engineer");
+
 }
 
 }
