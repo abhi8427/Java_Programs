@@ -6,7 +6,7 @@ public static void main(String abhi[])
 {
 
 
-System.out.println("Enter any Name");
+System.out.println("Enter your Name");
 
 Scanner scan = new Scanner(System.in);
 
