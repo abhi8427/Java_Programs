@@ -3,7 +3,7 @@ public class SwapNum{
 
 public static void main(String ab[]){
 
-int a = 10, b = 20;
+int a = 20, b = 30;
 
 System.out.println("Number before swapping" + a + " " + b);
 
