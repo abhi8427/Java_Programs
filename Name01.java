@@ -10,7 +10,7 @@ Scanner scan = new Scanner(System.in);
 
 String name = scan.nextLine();
 
-System.out.println("Your name is " +name);
+System.out.println("Your entered name is " +name);
 
 
 
