@@ -10,7 +10,7 @@ Scanner scan = new Scanner(System.in);
 
 int num = scan.nextInt();
 
-System.out.println("Your Table number starts from here");
+System.out.println("Your Table starts from here");
 
 for(int i = 1;i<=10;i++)
 
