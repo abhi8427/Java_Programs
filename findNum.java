@@ -2,7 +2,7 @@ public class findNum
 {
 public static void main(String abhi[])
 {
-int a[] = {1,2,3,4,5,6};
+int a[] = {1,2,3,4,5,6,7};
 int num = 3;
 for(int i = 0;i<a.length;i++)
 {
