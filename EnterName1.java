@@ -4,7 +4,7 @@ public class EnterName1{
 
 public static void main(String ab[]){
 
-System.out.println("Please Enter your Name");
+System.out.println("Please Enter your Name here");
 
 Scanner scan = new Scanner(System.in);
 
