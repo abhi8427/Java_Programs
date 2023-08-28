@@ -4,7 +4,7 @@ public class MissElement
 public static void main (String abhi[])
 {
 
-int a[] = {1,3,4,5};
+int a[] = {1,3,4,5,6};
 
 int sum1 = 0;
 int sum2 = 0;
