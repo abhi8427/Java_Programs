@@ -11,7 +11,7 @@ System.out.println("Enter yOUR First Number");
 int a = scan.nextInt();
 
 
-System.out.println("Enter second number");
+System.out.println("Enter your second number");
 int b = scan.nextInt();
 
 
