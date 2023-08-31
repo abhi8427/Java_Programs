@@ -10,6 +10,19 @@ Scanner scan = new Scanner(System.in);
 
 int rownum = scan.nextInt();
 
+for(int row = 1; row<=rownum; row++)
+{
+	for(int col = 1; col<=row;col++)
+{
+
+System.out.print(row);
+
+}
+
+System.out.println();
+}
+
+
 }
 
 }
