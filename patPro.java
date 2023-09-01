@@ -16,6 +16,7 @@ for(int row = 1; row<=rownum; row++)
 {
 
 System.out.print("*");
+System.out.print("|");
 
 }
 
