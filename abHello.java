@@ -2,6 +2,6 @@ public class abHello{
 
 public static void main(String abhi[])
 {
-System.out.println("Abhishek Kumar Sharma from Kanpur Uttar Pradesh");
+System.out.println("Abhishek Kumar Sharma");
 }
 }
