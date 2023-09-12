@@ -9,6 +9,8 @@ Scanner scan = new Scanner(System.in);
 
 System.out.println("enter first number");
 int a = scan.nextInt();
+
+System.out.println("enter second number");
 int b = scan.nextInt();
 
 System.out.println(a+b);
