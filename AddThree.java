@@ -6,7 +6,7 @@ public static void main(String abhi[]){
 
 Scanner scan = new Scanner(System.in);
 
-System.out.println("Enter yOUR First Number");
+System.out.println("Enter your First Number");
 
 int a = scan.nextInt();
 
