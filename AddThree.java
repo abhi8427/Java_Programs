@@ -15,7 +15,7 @@ System.out.println("Enter your second number");
 int b = scan.nextInt();
 
 
-System.out.println("Enter 3rd Number");
+System.out.println("Enter your 3rd Number");
 int c = scan.nextInt();
 
 System.out.println("Addition is ");
