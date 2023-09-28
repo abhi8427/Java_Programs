@@ -15,7 +15,7 @@ System.out.println("Enter second Number");
 
 int b = scan.nextInt();
 
-System.out.println(a+b);
+System.out.println("The Sum of numbers is" a+b);
 
 }
 
