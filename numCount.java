@@ -12,7 +12,7 @@ num = num/10;
 count++;
 }
 
-System.out.println(count);
+System.out.println("The numbers in given digit is " +count);
 
 }
 
