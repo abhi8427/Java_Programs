@@ -3,6 +3,7 @@ public class Animal{
 String color;
 int age;
 String breed;
+int legs;
 
 public static void main(String ab[]){
 
