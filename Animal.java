@@ -2,10 +2,9 @@ public class Animal{
 
 String color;
 int age;
-
+String breed;
 
 public static void main(String ab[]){
-
 
 
 Animal dog = new Animal();
