@@ -4,7 +4,7 @@ public class num003{
 
 public static void main(String ab[]){
 
-System.out.println("enter your number");
+System.out.println("enter your number in digit");
 
 Scanner scan = new Scanner(System.in);
 
