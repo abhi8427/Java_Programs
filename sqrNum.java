@@ -3,7 +3,7 @@ import java.util.*;
 public class sqrNum{
 
 public static void main(String ab[]){
-System.out.println("enter a number");
+System.out.println("enter your number");
 
 Scanner scan = new Scanner(System.in);
 
