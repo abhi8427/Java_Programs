@@ -4,7 +4,7 @@ public class name002
 {
 public static void main(String ab[])
 {
-System.out.println("Please enter your name");
+System.out.println("Please enter your full name");
 
 Scanner scan = new Scanner(System.in);
 
