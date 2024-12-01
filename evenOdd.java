@@ -1,26 +1,27 @@
-import java.util.*;
+package ternaryOperator;
 
-public class evenOdd{
+import java.util.Scanner;
 
-public static void main(String abhi[]){
+public class EvenOdd {
+	
+	public static void main(String ab[]){
+		
+		EvenOdd eo = new EvenOdd();
+		eo.evenOdd();
+		
+	}
 
-System.out.println("Please enter the number");
 
-Scanner scan = new Scanner(System.in);
 
-int num = scan.nextInt();
-
-System.out.println("The entered number is " +num);
-
-//int num = 4;
-
-if(num%2==0){
-System.out.println("Number is even");
-}else
-{
-System.out.println("Number is odd");
-}
-
-}
+		public void evenOdd(){
+			
+			System.out.println("Please enter a number");
+			Scanner scan = new Scanner(System.in);
+			int num = scan.nextInt();
+			
+			String result = (num%2 == 0)?"Even Number":"Odd Number";
+			System.out.println("The given number is "+ result);
+			
+		}
 
 }
