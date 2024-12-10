@@ -18,7 +18,7 @@ public class Name {
 		System.out.println("Please enter your name");
 		Scanner scan = new Scanner(System.in);
 		String name = scan.nextLine();
-		System.out.println("Hi " + name + " how are you?");
+		System.out.println("Hi " + name + " how are you doing?");
 	}
 
 }
