@@ -11,7 +11,7 @@ public class Factorial {
 	}
 
 	public static void fact(){
-		int factorial = 0;
+		int factorial = 1;
 		System.out.println("Please enter a number");
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();		
