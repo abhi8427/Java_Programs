@@ -1,3 +1,5 @@
+package JANUARY2025.Java_Programs;
+
 public class AB
 {
 public static void main(String abhi[])
