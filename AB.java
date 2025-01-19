@@ -5,6 +5,7 @@ public class AB
 public static void main(String abhi[])
 {
 System.out.println("Hello All, There, I am Abhishek Kumar from kanpur, Uttar Pradesh");
+System.out.println("I am learning new skills");
 }
 
 
