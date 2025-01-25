@@ -6,11 +6,14 @@ public class Fibo2 {
 	
 	public static void main (String args[]){
 		
-		fiboPro();
+		Fibo2 fb = new Fibo2();
+		fb.fiboPro();
+		
+		//fiboPro();
 		
 	}
 	
-	public static void fiboPro(){
+	public void fiboPro(){
 		System.out.println("Please enter the count to generate Fibonicci Series ");
 		Scanner scan = new Scanner(System.in);
 		int count = scan.nextInt();
