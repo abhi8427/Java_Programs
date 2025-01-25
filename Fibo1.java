@@ -4,11 +4,14 @@ public class Fibo1 {
 	
 	public static void main(String ab[]){
 		
-		fiboPro();
+		Fibo1 fb = new Fibo1();
+		fb.fiboPro();
+		
+		//fiboPro();
 		
 	}
 	
-	public static void fiboPro(){
+	public void fiboPro(){
 		int n1 = 0;
 		int n2 = 1;
 		int n3;
