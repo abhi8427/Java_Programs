@@ -22,6 +22,9 @@ public class MathOpe {
 		int sum = num1+num2;
 		System.out.println("Sum of the two numbers is " + sum);
 		
+		int mul = num1*num2;
+		System.out.println("Multiplication of two numbers is " + mul);
+		
 		
 	}
 
