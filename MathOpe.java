@@ -25,7 +25,21 @@ public class MathOpe {
 		int mul = num1*num2;
 		System.out.println("Multiplication of two numbers is " + mul);
 		
+		if(num1>num2){
+			int sub = num1 - num2;
+			System.out.println("The Substraction of two numbers " +sub);
+		}else{
+			int sub = num2 - num1;
+			System.out.println("The Substraction of two numbers " +sub);
+		}
 		
+		if(num1>num2){
+			int div = num1/num2;
+			System.out.println("The division of two numbers is "+div);
+		}else{
+			int div = num2/num1;
+			System.out.println("The division of two numbers is "+div);
+		}
 	}
 
 }
